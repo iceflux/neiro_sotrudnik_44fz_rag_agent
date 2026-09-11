@@ -2,7 +2,7 @@
 
 # Neural Employee: 44-FZ Tender Consultant
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/z123p2/neiro_sotrudnik_44fz_rag_agent/blob/main/neiro_sotrudnik_44fz_rag_agent.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iceflux/neiro_sotrudnik_44fz_rag_agent/blob/main/neiro_sotrudnik_44fz_rag_agent.ipynb)
 
 A RAG agent that advises suppliers on government procurement under Russian Federal Law 44-FZ. It answers questions from a knowledge base of 34 documents, cites the relevant articles of the law, and honestly says "I don't know" when information is missing. Built for Google Colab on the Russian-language model saiga_mistral_7b.
 

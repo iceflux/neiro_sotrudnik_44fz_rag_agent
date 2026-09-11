@@ -2,7 +2,7 @@
 
 # Нейро-сотрудник: Тендерный консультант по 44-ФЗ
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/z123p2/neiro_sotrudnik_44fz_rag_agent/blob/main/neiro_sotrudnik_44fz_rag_agent.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iceflux/neiro_sotrudnik_44fz_rag_agent/blob/main/neiro_sotrudnik_44fz_rag_agent.ipynb)
 
 RAG-агент для консультирования поставщиков по вопросам госзакупок по 44-ФЗ. Отвечает на вопросы на основе базы знаний из 34 документов, ссылается на статьи закона, честно признаёт незнание. Работает в Google Colab на контурной русскоязычной модели saiga_mistral_7b.
 
